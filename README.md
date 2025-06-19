@@ -1,0 +1,1 @@
+# Ecualizador_Grafico_por_Tercios_de_Octava_con_Visualizacion_FFT
